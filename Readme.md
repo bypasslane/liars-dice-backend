@@ -1,4 +1,4 @@
-## Liars Dice Backend
+## Liars Dice Backend TEST
 #### A simple imperfect node backend for UI engineer interviews
 
 ## Setting up
